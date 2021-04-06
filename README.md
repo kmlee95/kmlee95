@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm kyungmin! 👋
 
-<!--
-**kmlee95/kmlee95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student interested in **front end development.** I love to talk and code with people. I am trying to experience various things.
 
-Here are some ideas to get you started:
+* 🌱 I'm currently learning Javascript, Typescript, AWS
+* 💌 Ask me about anything! kmlee9598@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Experience
+
+|         Type          |       Date        | Contents                                  |
+| :-------------------: | :---------------: | ----------------------------------------- |
+|      🏫 Education      | 2020.07 ~ 2020.09 | Boostcamp challenge(NAVER CONNECT)                     |
+|     🏢 Internship      | 2019.09 ~ 2019.12 | Development of Integrated search system |
+| 👪 External activities | 2019.03 ~ 2019.12 | LIKE LION 7                               |
+|      🏫 Education      | 2014.03 ~ 2020.02 | Computer Engineering                    |
