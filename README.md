@@ -3,7 +3,7 @@
 I am a student interested in **front end development.** I love to talk and code with people. I am trying to experience various things.
 
 * 🌱 I'm currently learning Javascript, Typescript, AWS
-* 💌 Ask me about anything! kmlee9598@gmail.com
+* 💌 Ask me about anything!
 
 ### 📚 Experience
 
